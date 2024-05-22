@@ -1,0 +1,10 @@
+• Constructors
+	
+o public	HashMap(int initialCapacity,	float	loadFactor)
+o public	HashMap()	{
+o public	HashMap(int	initialCapacity)
+
+• Methods
+
+o public	boolean	addAll(Collection<?	extends	E>	c)
+o public	boolean	addAll(int	index,	Collection<?	extends	E>	c)

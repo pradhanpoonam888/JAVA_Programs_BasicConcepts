@@ -1,0 +1,1 @@
+Java Example : HashMap public int size() overrides AbstractMap public int size()

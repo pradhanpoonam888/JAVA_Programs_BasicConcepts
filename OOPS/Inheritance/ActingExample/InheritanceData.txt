@@ -1,0 +1,1 @@
+Inheritance in Java is a mechanism where one class is allowed to inherit the fields and methods of another class. The class that inherits is called the subclass or child class, and the class from which it inherits is called the superclass or parent class.
